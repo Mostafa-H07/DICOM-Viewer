@@ -27,12 +27,12 @@ We had the chance to develop a medical imaging analysis platform in just two wee
 </div>
 
 ## 🦸‍♂️ Contributors
-- Mostafa Hany
-- Mostafa Hazem
+- Mostafa Hany Mostafa
+- Mostafa Hany Tawfiq
 - Muhammad Nasser
 
 ## 🧾 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Dicom-Viewer/blob/2ff0005422b92e2232c5e13add46a05111ec1759/LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mostafa-H07/DICOM-Viewer/blob/ef426e02840257943973121d6b06c3c9d699b4db/LICENSE) for details.
 
 ## 📞 Contact
 Email: Mostafahany4705@gmail.com <br>
