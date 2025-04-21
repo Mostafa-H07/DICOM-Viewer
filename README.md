@@ -35,7 +35,6 @@ We had the chance to develop a medical imaging analysis platform in just two wee
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mostafa-H07/DICOM-Viewer/blob/ef426e02840257943973121d6b06c3c9d699b4db/LICENSE) for details.
 
 ## 📞 Contact
-Email: Mostafahany4705@gmail.com <br>
-LinkedIn: www.linkedin.com/in/mostafahany4705
+Email: mostafa.ibrahim07@eng-st.cu.edu.eg.com <br>
 
 
